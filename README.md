@@ -1,4 +1,4 @@
-# Analyze-a-short-novel-by-World-Cloud
+# Analyze-a-short-novel-using-World-Cloud
 Word clouds are commonly used to perform high-level analysis and visualization of text data. Accordinly,Let's try to analyze a short novel written by Lewis Carroll titled Alice's Adventures in Wonderland. Let's go ahead and download a .txt file of the novel.
 
 
